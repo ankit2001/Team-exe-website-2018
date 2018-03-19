@@ -83,15 +83,16 @@ $(document).ready(function () {
     });
 
 });
--->
+
 </script>
+-->
  <!--<a href="http://exe.nith.ac.in/paradox" target="_blank"><img src="images/paradox.jpeg" alt="NITH Confessions" style="width: 100%" /></a>-->
 
 <img src="images/award_exe.jpg" style="float: left ;width: 50%;">
 <img src="images/exe_pixo.jpg" style="float: left ;width: 50%;">
 <p style="clear: both;">
 <br/>
-<!-- Projects,events &workshops of Team .EXE -->
+</p>
 <section id="blog-full-width">
                 <div class="container">
                 <center><h1><b>OUR CONTRIBUTION THIS NIMBUS</b></h1></center>
@@ -106,10 +107,7 @@ $(document).ready(function () {
                    </section>
                    
                   
-                   
-
-      </div>
-      </div>
+       </div>            
 
 <?php
     include_once('footer.php');
