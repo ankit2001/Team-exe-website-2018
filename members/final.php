@@ -28,7 +28,7 @@
         $l=$roa['lname'];
         $img=$roa['pic'];     
       ?>
-					<figure class="effect-selena">
+					<figure class="effect-terry">
 						<img src="<?php echo $img; ?>" alt="<?php echo $f; echo $l; ?>"/>
 						<figcaption>
 							<h2><?php echo "$f "; ?><span><?php echo $l; ?></span></h2>

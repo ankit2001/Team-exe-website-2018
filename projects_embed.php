@@ -33,6 +33,16 @@
                                              <li>
                                                 <a>Automated Invigilator Duty Scheduler</a> <span class="badge">New</span>
                                             </li>
+                                            <li>
+                                                <a>Handwriting Recognition</a> <span class="badge">New</span>
+                                            </li>
+                                            <li>
+                                                <a>Face Recognition</a> <span class="badge">New</span>
+                                            </li>
+                                            <li>
+                                                <a>Virtual Keyboard</a> <span class="badge">New</span>
+                                            </li>
+
                                         </ul>
                                     </div>
 
