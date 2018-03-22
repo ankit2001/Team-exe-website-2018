@@ -96,6 +96,7 @@ $(document).ready(function () {
 <section id="blog-full-width">
                 <div class="container">
                 <center><h1><b>OUR CONTRIBUTION THIS NIMBUS</b></h1></center>
+                <div class="row">
                    <?php
                         include_once('projects_embed.php');
                         include_once('event_embed.php');

@@ -1,4 +1,3 @@
-<div class="row">
                         <div class="col-md-4">
                             <div class="sidebar">
                             <center><h1 style="color: #02bdd5">Our Events</h1></center>
@@ -28,6 +27,7 @@
 									<div class="categories widget">
                                         <h3 class="widget-head">Our Events (Online)</h3>
                                         <ul>
+                                            <li></li>
   											<li>
                                                 <a>Paradox 11.0</a> <span class="badge" <!--style="color: #800080">New</span>
                                             </li>                                      
@@ -49,38 +49,36 @@
                                             <li>
                                                 <a>Decodance</a> <span class="badge" <!--style="color: #800080">New</span>
                                             </li>
-
-                                        <li>
-                                                <a></a> <span class="badge" <!--style="color: #800080">New</span>
-                                        </li>    
+                                            <li></li>   
                                         </ul>
                                     </div>
 								
                                     <div class="categories widget">
                                         <h3 class="widget-head">Our Events (Onsite)</h3>
                                         <ul>
+                                            <li></li>
                                             <li>
                                                 <a>Code swap 4.0</a> <span class="badge" <!--style="color: #800080">New</span>
                                             </li>
                                             <li>
                                                 <a>Nith-Hacks 2.0</a> <span class="badge" <!--style="color: #800080">New</span>
                                             </li>
+                                            <li></li>
                                         </ul>
                                     </div>
 
                                     <div class="categories widget">
                                         <h3 class="widget-head">Our Events (Offline)</h3>
                                         <ul>
+                                            <li></li>
                                             <li>
                                                 <a>Exeplore 5.0</a> <span class="badge" <!--style="color: #800080">New</span>
                                             </li>
                                             <li>
                                                 <a>Debugging 4.0</a> <span class="badge">New</span>
                                             </li>
-                                            
-                                                                                    </ul>
+                                            <li></li>
+                                        </ul>
                                     </div>
-                                    
-                                    
                                 </div>
                             </div>

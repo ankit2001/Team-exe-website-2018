@@ -35,9 +35,26 @@
                             include_once('workshop_embed.php');
                     ?>
 
-						<div>
-						Description Coming Soon...
-						</div>	
+						<div class="col-md-8">
+                                <article class="wow fadeInDown" data-wow-delay=".5s" data-wow-duration="500ms">
+                                    <div class="blog-post-image">
+                                        
+                                    </div>
+                                    <div class="blog-content">
+
+                                        <h2 class="blogpost-title">
+                                        <a>Description of Workshops</a>
+                                        </h2>
+                                        <p>
+                                            Coming soon.
+                                        </p>
+                                        
+                                        
+                                    </div>
+                                </article>
+                                </div>
+                        </div>
+                    </section>	
                        <!--     <div class="col-md-8">
                                 <article class="wow fadeInDown" data-wow-delay=".5s" data-wow-duration="500ms">
                                     <div class="blog-post-image">
@@ -99,10 +116,6 @@
                                 </div>
                         </div>
                         -->
-                         </div>
-                         </div>
-                    </section>
-   
 
 <?php
     include_once('footer.php');

@@ -1,14 +1,10 @@
-                    <div class="row">
                         <div class="col-md-4">
                             <div class="sidebar">
                             <center><h1 style="color: #02bdd5">Our Projects</h1></center>
                                   <div class="categories widget">
                                         <h3 class="widget-head">Our Projects (All - Open source)</h3>
                                         <ul>
-                                            <!--<li>
-                                                <a></a> <span class="badge">New</span>
-                                            </li>
-                                            -->
+                                            <li></li>
                                             <li>
                                                 <a>NITH Chatbot</a> <span class="badge">New</span>
                                             </li>
@@ -42,7 +38,7 @@
                                             <li>
                                                 <a>Virtual Keyboard</a> <span class="badge">New</span>
                                             </li>
-
+                                            <li></li>
                                         </ul>
                                     </div>
 
@@ -75,8 +71,7 @@
                                             </li>
                                         </ul>
                                     </div>
-                                    -->
-                                    
-                                </div>
+                                    -->                                    
                             </div>
+                        </div>
                             
