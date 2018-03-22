@@ -54,12 +54,12 @@
                                     </div>
                                 </article>
 
-
+							</div>
                                 </div>
                         </div>
                     </section>
     
-
+</div>
 <?php
     include_once('footer.php');
 ?>    

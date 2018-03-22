@@ -108,7 +108,7 @@ $(document).ready(function () {
                    
                   
        </div>            
-
+</div>
 <?php
     include_once('footer.php');
 ?>     
