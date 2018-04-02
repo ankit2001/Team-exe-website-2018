@@ -29,4 +29,5 @@
     <script src="js/slider.js"></script>
     <script src="js/jquery.fancybox.js"></script>
     <script src="js/main.js"></script>
-    <script src="https://apis.google.com/js/platform.js" async defer></script>    
+    <script src="https://apis.google.com/js/platform.js" async defer></script>  
+    <script type="text/javascript" src="https://cdn.ywxi.net/js/1.js" async></script>
