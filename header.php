@@ -52,25 +52,6 @@
                             <li><a href="http://teamexe.in/paradox" class="tooltip-show" data-toggle="tooltip" title="Paradox - Team .EXE">Paradox</a></li>
                                 </div>
                             </li>
-                            
-
-<?php 
-include_once('user_session.php');
- 
-   if(!isset($_SESSION['login_user']))
-   {
-       echo '<li><a href="login.php" class="tooltip-show" data-toggle="tooltip" title="Sign In">Sign In</a></li>';
-   }
-   //if user session is set then redirecting user to profile
-   else
-   {
-       echo '<li><a href="profile.php" class="tooltip-show" data-toggle="tooltip" title="Visit Profile">';
-       echo $session_usr;
-       echo '</a></li>'; 
-       echo '<li><a href="logout.php" class="tooltip-show" data-toggle="tooltip" title="Logout">Logout</a>';
-   }
-?>
-                            </li>
                         </ul>
                   </div>
                 </nav>
