@@ -30,7 +30,7 @@
         //$fa=$roa['field1'];      
       ?>
 					<figure class="effect-apollo">
-						<img src="<?php echo $img; ?>" alt="<?php echo $f; echo $l; ?>"/>
+						<img style="width:100%" src="<?php echo $img; ?>" alt="<?php echo $f; echo $l; ?>"/>
 						<figcaption>
 							<h2><?php echo "$f "; ?><span><?php echo $l; ?></span></h2>
 							<div>

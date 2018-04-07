@@ -29,7 +29,7 @@
         $img=$roa['pic'];     
       ?>
 					<figure class="effect-terry">
-						<img src="<?php echo $img; ?>" alt="<?php echo $f; echo $l; ?>"/>
+						<img style="width:100%;" src="<?php echo $img; ?>" alt="<?php echo $f; echo $l; ?>"/>
 						<figcaption>
 							<h2><?php echo "$f "; ?><span><?php echo $l; ?></span></h2>
 							
