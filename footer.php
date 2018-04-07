@@ -23,7 +23,7 @@
         <footer id="footer">
             <div class="container">
                 <div class="col-md-8">
-                    <p class="copyright">&copy;: <span>2017</span> | Designed, Developed & Hosted with <span style="color: #FF0000; font-size: 25px;">&hearts;</span> by <b><a href="index.php" title="Team EXE official website">Team .EXE</a></b></p>
+                    <p class="copyright">&copy;: <span>2018</span> | Handcrafted with <span style="color: #FF0000; font-size: 25px;">&hearts;</span> by <b><a href="index.php" title="Team EXE official website">Team .EXE</a></b></p>
                 </div>
                 <div class="col-md-4">
                     <!-- Social Media -->
@@ -34,7 +34,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.youtube.com/channel/UCTIpvLaM1G-uUsthgCDauKw" target="_blank" title="Subscribe us on Youtube" class="Youtube">
+                            <a href="https://www.youtube.com/channel/UCpKkNivzH-N_a6n5zDaVZ6g" target="_blank" title="Subscribe us on Youtube" class="Youtube">
                                 <i class="ion-social-youtube"></i>
                             </a>
                         </li>
