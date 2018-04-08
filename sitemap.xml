@@ -6,72 +6,92 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
-  <loc>http://exe.nith.ac.in/</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://teamexe.in/</loc>
+  <lastmod>2018-04-08T19:46:11+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://exe.nith.ac.in/index.php</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://teamexe.in/index.php</loc>
+  <lastmod>2018-04-08T19:46:11+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://exe.nith.ac.in/about.php</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://teamexe.in/about.php</loc>
+  <lastmod>2018-04-08T19:46:11+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://exe.nith.ac.in/contact.php</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://teamexe.in/contact.php</loc>
+  <lastmod>2018-04-08T19:46:11+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://exe.nith.ac.in/fin.php</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://teamexe.in/alum.php</loc>
+  <lastmod>2018-04-08T19:46:11+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://exe.nith.ac.in/members.php</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://teamexe.in/fin.php</loc>
+  <lastmod>2018-04-08T19:46:11+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://exe.nith.ac.in/exec.php</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://teamexe.in/members.php</loc>
+  <lastmod>2018-04-08T19:46:11+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://exe.nith.ac.in/vol.php</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://teamexe.in/exec.php</loc>
+  <lastmod>2018-04-08T19:46:11+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://exe.nith.ac.in/projects.php</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://teamexe.in/vol.php</loc>
+  <lastmod>2018-04-08T19:46:11+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://exe.nith.ac.in/events.php</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://teamexe.in/projects.php</loc>
+  <lastmod>2018-04-08T19:46:11+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://exe.nith.ac.in/workshops.php</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://teamexe.in/events.php</loc>
+  <lastmod>2018-04-08T19:46:11+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://exe.nith.ac.in/login.php</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://teamexe.in/workshops.php</loc>
+  <lastmod>2018-04-08T19:46:11+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://exe.nith.ac.in/hunt_the_code.php</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://teamexe.in/members/alumni.php</loc>
+  <lastmod>2018-04-08T19:46:11+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://exe.nith.ac.in/members/final.php</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://teamexe.in/members/final.php</loc>
+  <lastmod>2018-04-08T19:46:11+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://exe.nith.ac.in/members/coordinators.php</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://teamexe.in/members/coordinators.php</loc>
+  <lastmod>2018-04-08T19:46:11+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://exe.nith.ac.in/members/executives.php</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://teamexe.in/members/executives.php</loc>
+  <lastmod>2018-04-08T19:46:11+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://exe.nith.ac.in/members/volunteers.php</loc>
-  <changefreq>daily</changefreq>
+  <loc>https://teamexe.in/members/volunteers.php</loc>
+  <lastmod>2018-04-08T19:46:11+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
+
+
 </urlset>
