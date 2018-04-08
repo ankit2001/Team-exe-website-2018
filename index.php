@@ -11,7 +11,7 @@
     <link rel="icon" href="images/title.png">
     <meta property="og:image" content="images/logo.png"/>
     <meta property="og:title" content="Team .EXE -  NIT Hamirpur"/>
-    <meta property="og:url" content="http://exe.nith.ac.in"/>
+    <meta property="og:url" content="https://teamexe.in"/>
     <meta property="og:site_name" content="Team .EXE - NIT Hamirpur"/>
 
     <title>Team .EXE</title>
@@ -93,6 +93,12 @@ $(document).ready(function () {
 <p style="clear: both;">
 <br/>
 </p>
+
+<div class="container">
+<a href="https://teamexe.in/paradox" target="_blank" alt = "Paradox by Team .EXE"><center><h1><b>PARADOX IS NOW LIVE</b></h1></center></a>
+<a href="https://teamexe.in/paradox" target="_blank"><img src="images/para_final.jpg" alt = "Paradox by Team .EXE" style="float: center ;width: 100%;"></a>
+
+</div>
 <section id="blog-full-width">
                 <div class="container">
                 <center><h1><b>OUR CONTRIBUTION THIS NIMBUS</b></h1></center>
