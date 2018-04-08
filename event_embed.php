@@ -29,7 +29,7 @@
                                         <ul>
                                             <li></li>
   											<li>
-                                                <a>Paradox 11.0</a> <span class="badge" <!--style="color: #800080">New</span>
+                                                <a href="https://teamexe.in/paradox" target="_blank">Paradox 11.0</a><span class="badge" style="color: #00FF00">Ongoing</span>
                                             </li>                                      
                                             <li>
                                                 <a>Hunt the Code 4.0</a> <span class="badge" <!--style="color: #800080">New</span>
