@@ -6,37 +6,37 @@
                                         <ul>
                                             <li></li>
                                             <li>
-                                                <a>NITH Chatbot</a> <span class="badge">New</span>
+                                                <a>Crypto-Net</a> <span class="badge">New</span>
                                             </li>
                                             <li>
-                                                <a>Online Outpass System</a> <span class="badge">New</span>
+                                                <a>Sign language translation and Voice based recognition system</a> <span class="badge">New</span>
                                             </li>
                                             <li>
-                                                <a>Arduino Based Fighting Robot</a> <span class="badge">New</span>
+                                                <a>AI Mirror</a> <span class="badge">New</span>
                                             </li>
                                             <li>
-                                                <a>Self-Playing Mario Bot</a> <span class="badge">New</span>
+                                                <a>Touch screen system using computer vision</a> <span class="badge">New</span>
                                             </li>
                                             <li>
-                                                <a>Sophisticated Polling Application</a> <span class="badge">New</span>
+                                                <a>Hate Message detection</a> <span class="badge">New</span>
                                             </li>
                                             <li>
-                                                <a>Exeplore</a> <span class="badge">New</span>
+                                                <a>I-artist</a> <span class="badge">New</span>
                                             </li>
                                             <li>
-                                                <a>VR-Based Multiplayer Application</a> <span class="badge">New</span>
+                                                <a>Medirex Toolkit</a> <span class="badge">New</span>
                                             </li>
                                              <li>
-                                                <a>Automated Invigilator Duty Scheduler</a> <span class="badge">New</span>
+                                                <a>Driver surveillance system</a> <span class="badge">New</span>
                                             </li>
                                             <li>
-                                                <a>Handwriting Recognition</a> <span class="badge">New</span>
+                                                <a>Real Time vehicle number plate recognition system</a> <span class="badge">New</span>
                                             </li>
                                             <li>
-                                                <a>Face Recognition</a> <span class="badge">New</span>
+                                                <a>Online semester registration</a> <span class="badge">New</span>
                                             </li>
                                             <li>
-                                                <a>Virtual Keyboard</a> <span class="badge">New</span>
+                                                <a>Nith Portfolio</a> <span class="badge">New</span>
                                             </li>
                                             <li></li>
                                         </ul>
