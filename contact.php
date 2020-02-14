@@ -52,7 +52,7 @@
                     <div class="col-md-4">
                         <div class="phone wow fadeInLeft" data-wow-duration="500ms" data-wow-delay=".9s">
                             <i class="ion-ios-telephone-outline"></i>
-                            <p>+91 9736813939<br>+91 7018700780</p>
+                            <p>+91 9418384371<br>+91 6280686176</p>
                         </div>
                     </div>
                 </div>
