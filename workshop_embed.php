@@ -6,7 +6,7 @@
                                         <ul>
                                             <li></li>
                                             <li>
-                                                <a>Git And Shell Scripting</a> <span class="badge" style="color: #800080">9-10 February, 2018</span>
+                                                <a>Capture The flag walkthroughs</a> <span class="badge" style="color: #800080">comming soon</span>
                                             </li>
                                             <li></li>
                                         </ul>
@@ -15,7 +15,7 @@
                                                 <a>GIT & Web designing</a> <span class="badge" style="color: #800080">7-8 March, 2017</span>
                                             </li>
 -->
-									<div class="categories widget">
+									<!--<div class="categories widget">
 										<h3 class="widget-head">Our Workshops (To be Held)</h3>
                                         <ul>
                                             <li></li>
@@ -24,6 +24,6 @@
                                             </li>
                                             <li></li>
                                         </ul>    
-                                    </div>					
+                                    </div>		-->			
                                 </div>
                             </div>
