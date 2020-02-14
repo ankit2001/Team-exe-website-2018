@@ -30,7 +30,7 @@
                                                 <a>Driver surveillance system</a> <span class="badge">New</span>
                                             </li>
                                             <li>
-                                                <a>Real Time vehicle number plate recognition system</a> <span class="badge">New</span>
+                                                <a>Real Time vehicle number plate recognition system using opencv and ml</a> <span class="badge">New</span>
                                             </li>
                                             <li>
                                                 <a>Online semester registration</a> <span class="badge">New</span>
