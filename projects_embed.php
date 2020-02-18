@@ -6,37 +6,37 @@
                                         <ul>
                                             <li></li>
                                             <li>
-                                                <a>Crypto-Net</a> <span class="badge">New</span>
+                                                <a href="./Abstract.php?p_id=1">Crypto-Net</a> <span class="badge">New</span>
                                             </li>
                                             <li>
-                                                <a>Sign language translation and Voice based recognition system</a> <span class="badge">New</span>
+                                                <a href="./Abstract.php?p_id=2">Sign language translation and Voice based recognition system</a> <span class="badge">New</span>
                                             </li>
                                             <li>
-                                                <a>AI Mirror</a> <span class="badge">New</span>
+                                                <a href="./Abstract.php?p_id=3">AI Mirror</a> <span class="badge">New</span>
                                             </li>
                                             <li>
-                                                <a>Touch screen system using computer vision</a> <span class="badge">New</span>
+                                                <a href="./Abstract.php?p_id=4">Touch screen system using computer vision</a> <span class="badge">New</span>
                                             </li>
                                             <li>
-                                                <a>Hate Message detection</a> <span class="badge">New</span>
+                                                <a href="./Abstract.php?p_id=5">Hate Message detection</a> <span class="badge">New</span>
                                             </li>
                                             <li>
-                                                <a>I-artist</a> <span class="badge">New</span>
+                                                <a href="./Abstract.php?p_id=6">I-artist</a> <span class="badge">New</span>
                                             </li>
                                             <li>
-                                                <a>Medirex Toolkit</a> <span class="badge">New</span>
+                                                <a href="./Abstract.php?p_id=7">Medirex Toolkit</a> <span class="badge">New</span>
                                             </li>
                                              <li>
-                                                <a>Driver surveillance system</a> <span class="badge">New</span>
+                                                <a href="./Abstract.php?p_id=8">Driver surveillance system</a> <span class="badge">New</span>
                                             </li>
                                             <li>
-                                                <a>Real Time vehicle number plate recognition system using opencv and ml</a> <span class="badge">New</span>
+                                                <a href="./Abstract.php?p_id=9">Real Time vehicle number plate recognition system using opencv and ml</a> <span class="badge">New</span>
                                             </li>
                                             <li>
-                                                <a>Online semester registration</a> <span class="badge">New</span>
+                                                <a href="./Abstract.php?p_id=10">Online semester registration</a> <span class="badge">New</span>
                                             </li>
                                             <li>
-                                                <a>Nith Portfolio</a> <span class="badge">New</span>
+                                                <a href="./Abstract.php?p_id=11">Nith Portfolio</a> <span class="badge">New</span>
                                             </li>
                                             <li></li>
                                         </ul>
